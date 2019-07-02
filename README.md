@@ -4,6 +4,8 @@
 
 The Severan Database Project is a collection of three datasets containing historical evidence from the Severan Period (193-235).
 
+[See the live website here](http://hennarot.forest.usf.edu/main/other/severan/)
+
 ---
 
 Repository File Structure:
