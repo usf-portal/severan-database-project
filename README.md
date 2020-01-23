@@ -12,12 +12,14 @@ Repository File Structure:
 
 
 ``` shell
+# Main Data Workbook
+/data/julia-domna-matres-castrorum.xlsx
+
+# Old Version Files (Pre-2014)
 # Survey of coin hoards from the Severan Period
 /data/hoard_analysis.csv
-
 # Inscriptions mentioning Julia Domna
 /data/julia_domna.csv
-
 # Survey of 14 cities from Greece and Asia minor minting under the Severans
 /data/provincial_coins.csv
 ```
