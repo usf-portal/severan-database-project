@@ -1,5 +1,5 @@
-Hello World!
+One paragraph
 
-This is another paragraph
+Blank lines give you another paragraph
 
-![Cat pic](https://bfmbrainfall.files.wordpress.com/2016/04/how_silly_are_you_pomelo_cat.jpg?w=376)
+Use `*` to make something *italicized*
