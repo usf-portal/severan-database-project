@@ -30,7 +30,7 @@ Use `![alt text](url)` for images, ![Empress Faustina](images/sample.jpg)
 
 `Add a caption with backtick quoting`
 
-Below is a way to make an image linkable
+*Complex* Below is a way to make an image linkable
 
 `[![alt text for clickable image](url or relative path to image)](url or relative path to destination)`
 
