@@ -20,7 +20,13 @@ multi-line quotes
 ```
 Use `[text on screen](url)` for links, [like this](https://google.com)
 
-Use `![alt text](url)` for images, ![Empress Faustina](https://usf-portal.github.io/severan-database-project/images/sample.jpg)
+# For Files Inside the Docs Directory
+
+Use `[relative path](relative path)` to link to a local page [like this](second_page.md)
+
+Use `[text on page](relative path)` to link to a local file [like this](images/sample.jpg)
+
+Use `![alt text](url)` for images, ![Empress Faustina](images/sample.jpg)
 	
 ---
 
