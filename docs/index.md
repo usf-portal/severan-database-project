@@ -27,7 +27,18 @@ Use `[relative path](relative path)` to link to a local page [like this](second_
 Use `[text on page](relative path)` to link to a local file [like this](images/sample.jpg)
 
 Use `![alt text](url)` for images, ![Empress Faustina](images/sample.jpg)
-	
+
+`Add a caption with backtick quoting`
+
+Below is a way to make an image linkable
+
+`[![alt text for clickable image](url or relative path to image)](url or relative path to destination)`
+
+like so
+
+[![Empress Faustina](images/sample.jpg)](images/sample.jpg)
+
+
 ---
 
 The horizontal rule (above & below) is a nice way to break up pages into different sections
